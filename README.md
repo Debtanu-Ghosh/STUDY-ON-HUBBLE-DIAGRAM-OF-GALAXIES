@@ -42,7 +42,7 @@ The relative distances of galaxies were calculated and plotted against redshift 
 </div>
 
 ## Repository Contents
-- /Data: Contains the raw data from the SDSS_DR-16 databases.
+- /Hubble_data: Contains the raw data from the SDSS_DR-16 databases.
 - /Result: The final plots and processed data.
 - /image: Used images other than plots.
 - SQLSearch.sql: SQL scripts used for data collection.
