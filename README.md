@@ -40,3 +40,24 @@ The relative distances of galaxies were calculated and plotted against redshift 
     <img src="Result/img4.png" alt="Hubble Diagram 2" width="420"/>
     <img src="Result/img5.png" alt="Hubble Diagram 2" width="462"/>
 </div>
+
+## Repository Contents
+- /Data: Contains the raw data from the SDSS_DR-16 databases.
+- /Result: The final plots and processed data.
+- /image: Used images other than plots.
+- SQLSearch.sql: SQL scripts used for data collection.
+  
+## Acknowledgments
+- Prof. Tanuka Chattopadhyay, Department of Applied Mathematics, for guidance and support throughout this project.
+
+## References
+
+- **SDSS DR16:** http://skyserver.sdss.org/dr16/en/home.aspx
+- **Hubble's Law on Wikipedia:** https://en.wikipedia.org/wiki/Hubble%27s_law
+- **Hubble’s Law and the expanding universe:** https://www.pnas.org/content/112/11/3173
+- **Galaxy information and facts:** https://www.nationalgeographic.com/science/article/galaxies
+- **The Age of the Universe:** https://www.e-education.psu.edu/astro801/content/l10_p5.html
+- **Hubble’s diagram:** https://quarknet.fnal.gov/fnal-uc/eeu/hubblediagram
+- **Hubble’s law:** https://astronomy.swin.edu.au/cosmos/h/Hubble+Law
+- GRAVITATION AND COSMOLOGY Principles And Applications Of The General Theory Of Relativity By STEVEN WEINBERG
+- AN INTRODUCTION TO RELATIVITY BY JAYANT V. NARLIKAR, Chapter 14 “The expanding universe”
