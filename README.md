@@ -20,7 +20,7 @@ In this project, I retrace the steps of Edwin Hubble to recreate his groundbreak
 Extensive data was gathered from the SDSS_DR-16 database using SQL and the SkyServer database. This data includes five color magnitudes and redshifts of galaxies.
 
 * SDSS_DR_16 DataBase: https://skyserver.sdss.org/dr16/en/tools/search/sql.aspx
-* Code: https://github.com/Debtanu-Ghosh/STUDY-ON-HUBBLE-DIAGRAM-OF-GALAXIES/blob/0c0fa177674ec94875ded3bc862dcc77d3d746f7/SQLSearch.sql
+* Code: SQLSearch.sql
 
 ### 2. Data Analysis
 
