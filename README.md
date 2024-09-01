@@ -1,7 +1,6 @@
 # STUDY-ON-HUBBLE-DIAGRAM-OF-GALAXIES
 
 <div style="display: flex; justify-content: space-around;">
-    <img src="image/NASA.png" alt="Hubble Diagram 2" width="403"/>
     <img src="image/img1.png" alt="Hubble Diagram 2" width="220"/>
     <img src="image/img2.png" alt="Hubble Diagram 3" width="200"/>
 </div>
