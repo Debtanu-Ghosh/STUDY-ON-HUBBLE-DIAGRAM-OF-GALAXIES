@@ -35,3 +35,8 @@ The relative distances of galaxies were calculated and plotted against redshift 
    - \( D \) is the distance
 
 ## Result
+
+<div style="display: flex; justify-content: space-around;">
+    <img src="Result/img4.png" alt="Hubble Diagram 2" width="420"/>
+    <img src="Result/img5.png" alt="Hubble Diagram 2" width="462"/>
+</div>
